@@ -1,7 +1,7 @@
 <h1>Minha Página de Formulário montada com vídeo aula da Rafa Ballerini</h1>
 
 <h2>Observações</h2>
-<p>Gostei muito de desenvolver e me ajudou a conhecer mais sobre Formulários e como funcionam cada tipo de tag dentro do formulário e mudei algumas coisas para ficar no meu estilo</p>
+<p>Gostei muito de desenvolver e me ajudou a conhecer mais sobre Formulários e como funcionam cada tipo de tag dentro do formulário e mudei algumas coisas para ficar no meu estilo.</p>
 
 ## Linguagens de Marcação usadas
 - HTML
